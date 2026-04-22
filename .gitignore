@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Logs
+*.log
+logs/
+
+# Secrets / sensitive files
+*.key
+*.crt
+*.pem
+
+# Kubernetes
+.kube/
+
+# Node (just in case)
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# GitHub / CI temp
+*.tmp
